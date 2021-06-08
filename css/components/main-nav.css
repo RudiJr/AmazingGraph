@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+
+.main-nav {
+    padding-top: 3.60rem;
+    padding-right: 3rem;
+}
+
+.nav-items {
+    text-decoration: none;
+    color: #766F68;
+    font-weight: 500;
+    font-size: 1.3rem;
+    padding-right: 1rem;
+}
+
+.nav-items.-right {
+    padding-right: 0;
+}
