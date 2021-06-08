@@ -1,6 +1,18 @@
-.image {
-    width: 100%;
+.txt {
     display: flex;
-    align-items: center;
-    justify-content: space-between;
+    justify-content: flex-start;
+    flex-direction: column;
+}
+
+.image {
+    display: flex;
+    justify-content: flex-end;
+    position: relative;
+    bottom: 22rem;
+    right: 10rem;
+}
+
+.team-img {
+    width: 700px;
+    height: 400px;
 }
