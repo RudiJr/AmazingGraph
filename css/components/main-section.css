@@ -16,3 +16,26 @@
     width: 700px;
     height: 400px;
 }
+
+@media only screen and (max-width: 1400px) {
+    .image {
+        right: 4rem;
+    }
+    
+    .team-img {
+        width: 620px;
+        height: 380px;
+    }
+}
+
+@media only screen and (max-width: 1200px) {
+    .image {
+        right: 1rem;
+        bottom: 18rem;
+    }
+    
+    .team-img {
+        width: 560px;
+        height: 340px;
+    }
+}

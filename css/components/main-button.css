@@ -4,7 +4,7 @@
     background-color: #D2872C;
     color: #FFF;
     font-size: 1.60rem;
-    line-height: 2;
+    line-height: 3.10rem;
     padding-right: 5rem;
     padding-left: 5rem;
     font-weight: 700;
@@ -12,4 +12,14 @@
     margin-left: 5.30rem;
     margin-top: 3rem;
     max-width: 380px;
+}
+
+@media only screen and (max-width: 1200px) {
+    .main-button {
+        font-size: 1.50rem;
+        line-height: 2.80rem;
+        margin-left: 5.80rem;
+        margin-top: 2.70rem;
+        max-width: 280px;
+    }
 }
