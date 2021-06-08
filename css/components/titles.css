@@ -5,3 +5,20 @@
     font-weight: 700;
     font-size: 1.70rem;
 }
+
+.main-title {
+    color: #766F68;
+    font-weight: 700;
+    font-size: 3.80rem;
+    line-height: 4.20rem;
+    padding-left: 5.20rem;
+    padding-top: 7rem;
+}
+
+.main-title.-second {
+    font-weight: 400;
+    font-size: 1.60rem;
+    line-height: 2rem;
+    padding-left: 5.20rem;
+    padding-top: 1.80rem;
+}
