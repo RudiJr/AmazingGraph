@@ -3,6 +3,7 @@
 .main-nav {
     padding-top: 3.60rem;
     padding-right: 3rem;
+    
 }
 
 .nav-items {
@@ -20,3 +21,9 @@
 .nav-items:hover {
     color: #000;
 }
+
+ul, li {
+    list-style: none;
+    display: inline;
+}
+
