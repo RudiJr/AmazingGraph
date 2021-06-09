@@ -1,25 +1,42 @@
 .main-button {
+    cursor: pointer;
     border: 0;
-    border-radius: 10px;
+    border-radius: 15px;
     background-color: #D2872C;
     color: #FFF;
-    font-size: 1.60rem;
-    line-height: 3.10rem;
-    padding-right: 5rem;
-    padding-left: 5rem;
+    font-size: 1.80rem;
+    line-height: 3.60rem;
     font-weight: 700;
     text-align: center;
     margin-left: 5.30rem;
     margin-top: 3rem;
-    max-width: 380px;
+    max-width: 290px;
+}
+
+.main-button:hover {
+    background-color: #766F68;
 }
 
 @media only screen and (max-width: 1200px) {
     .main-button {
-        font-size: 1.50rem;
-        line-height: 2.80rem;
+        font-size: 1.40rem;
+        line-height: 3.20rem;
         margin-left: 5.80rem;
         margin-top: 2.70rem;
+        max-width: 260px;
+    }
+}
+
+@media only screen and (max-width: 992px) {
+    .main-button {
+        margin-left: 0;
+        align-self: center;
+        margin-bottom: 5rem;
+        font-size: 1.70rem;
+        padding-right: 5rem;
+        padding-left: 5rem;
+        margin-top: 2.20rem;
+        line-height: 3.80rem;
         max-width: 280px;
     }
 }
