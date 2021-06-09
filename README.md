@@ -10,17 +10,14 @@
     Landing page to create amazing graphics
        <br />
     <br />
-    <a href="https://github.com/Lorenalgm/AmazingGraph">Challenge</a>
-    ·
-    <a href="https://rudijr.github.io/AmazingGraph/">AmazingGraph|Completed</a>
+    <a href="https://rudijr.github.io/AmazingGraph/">  See the Challenge completed Here!</a>
   </p>
 </p>
 
 
 
 # Welcome :)
-<a href="https://devchallenge.now.sh/"> DevChallenge</a> allow you to improve your skills!
-
+ <a href="https://github.com/Lorenalgm/AmazingGraph"> Find the Challenge</a>
 # Challenge
 Your challenge is to build a landing page about a website that create graphics.<br><br>
 Seu desafio é criar uma página sobre um site de criação de gráficos.
