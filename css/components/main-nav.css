@@ -16,3 +16,7 @@
 .nav-items.-right {
     padding-right: 0;
 }
+
+.nav-items:hover {
+    color: #000;
+}

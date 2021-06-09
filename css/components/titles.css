@@ -36,3 +36,45 @@
         padding-top: 1.60rem;
     }
 }
+
+@media only screen and (max-width: 992px) {
+    .main-title {
+        font-size: 3.40rem;
+        line-height: 3.80rem;
+        padding-left: 0;
+        padding-top: 6rem;
+        text-align: center;
+    }
+    
+    .main-title.-second {
+        font-size: 1.50rem;
+        line-height: 1.80rem;
+        padding-left: 0;
+        padding-top: 1.80rem;
+    }
+    .nav-title {
+        font-size: 2rem;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    .main-title {
+        font-size: 3rem;
+        line-height: 3.60rem;
+    }
+    .main-title.-second {
+        font-size: 1.40rem;
+        line-height: 1.70rem;
+    }
+}
+
+@media only screen and (max-width: 576px) {
+    .main-title {
+        font-size: 2.80rem;
+        line-height: 3.20rem;
+    }
+    .main-title.-second {
+        font-size: 1.30rem;
+        line-height: 1.60rem;
+    }
+}
