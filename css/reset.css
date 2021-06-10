@@ -8,5 +8,5 @@
 ul, li, a {
     display: inline;
     list-style: none;
-    
+    text-decoration: none;
 }
