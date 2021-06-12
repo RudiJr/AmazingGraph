@@ -61,6 +61,7 @@
     .main-title {
         font-size: 3rem;
         line-height: 3.60rem;
+        padding-top: 2rem;
     }
     .main-title.-second {
         font-size: 1.40rem;
